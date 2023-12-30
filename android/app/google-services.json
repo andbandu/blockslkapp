@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92051252827",
+    "project_id": "lkblocks",
+    "storage_bucket": "lkblocks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92051252827:android:30e89dde14fa5b46c8417e",
+        "android_client_info": {
+          "package_name": "lk.blocks.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs546BcJ9LDqKe4rQ7rdFMay9pEzmmQoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
